@@ -1,0 +1,891 @@
+{
+  "type": "FeatureCollection", 
+  "bbox": [
+    -105.79545, 
+    26.297144, 
+    -94.905443, 
+    34.535861
+  ], 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -97.794089, 
+          26.41012
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "WILLACY", 
+        "tceq_state_code": "1", 
+        "pws_name": "CITY OF LYFORD", 
+        "pws_id": "2450003", 
+        "connections": "764", 
+        "priority_code": "C", 
+        "notified_date": "10/16/2013", 
+        "population": "1973"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.923935, 
+          29.571144
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "BANDERA", 
+        "tceq_state_code": "2", 
+        "pws_name": "BANDERA COUNTY FWSD 1", 
+        "pws_id": "100011", 
+        "connections": "433", 
+        "priority_code": "C", 
+        "notified_date": "8/15/2013", 
+        "population": "1299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -100.936882, 
+          29.62175
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "VAL VERDE", 
+        "tceq_state_code": "2", 
+        "pws_name": "DEVILS SHORES WSC", 
+        "pws_id": "2330021", 
+        "connections": "54", 
+        "priority_code": "C", 
+        "notified_date": "9/25/2013", 
+        "population": "102"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.410987, 
+          29.796741
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "COMAL", 
+        "tceq_state_code": "3", 
+        "pws_name": "BERRY OAKS WATER CO", 
+        "pws_id": "460226", 
+        "connections": "35", 
+        "priority_code": "C", 
+        "notified_date": "8/14/2013", 
+        "population": "105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -97.797212, 
+          30.833156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "WILLIAMSON", 
+        "tceq_state_code": "1", 
+        "pws_name": "CITY OF FLORENCE", 
+        "pws_id": "2460005", 
+        "connections": "480", 
+        "priority_code": "C", 
+        "notified_date": "9/23/2013", 
+        "population": "1440"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -100.838179, 
+          31.229388
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "IRION", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF MERTZON", 
+        "pws_id": "1180002", 
+        "connections": "357", 
+        "priority_code": "C", 
+        "notified_date": "8/6/2013", 
+        "population": "781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -105.79545, 
+          31.242738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "HUDSPETH", 
+        "tceq_state_code": "1", 
+        "pws_name": "ESPERANZA WATER SERVICE", 
+        "pws_id": "1150010", 
+        "connections": "275", 
+        "priority_code": "C", 
+        "notified_date": "5/14/2013", 
+        "population": "708"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -100.613273, 
+          31.376882
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "TOM GREEN", 
+        "tceq_state_code": "3", 
+        "pws_name": "TWIN BUTTES WATER SYSTEM", 
+        "pws_id": "2260026", 
+        "connections": "28", 
+        "priority_code": "C", 
+        "notified_date": "9/9/2013", 
+        "population": "39"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -96.931034, 
+          31.542095
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "MCLENNAN", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF MART", 
+        "pws_id": "1550005", 
+        "connections": "924", 
+        "priority_code": "C", 
+        "notified_date": "10/15/2013", 
+        "population": "2046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.413257, 
+          33.192835
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "GARZA", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF POST", 
+        "pws_id": "850001", 
+        "connections": "1494", 
+        "priority_code": "C", 
+        "notified_date": "9/11/2013", 
+        "population": "5376"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.924108, 
+          33.208091
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "STONEWALL", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF ASPERMONT", 
+        "pws_id": "2170001", 
+        "connections": "622", 
+        "priority_code": "C", 
+        "notified_date": "8/7/2013", 
+        "population": "919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.840148, 
+          33.381308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "HASKELL", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF OBRIEN", 
+        "pws_id": "1040005", 
+        "connections": "63", 
+        "priority_code": "C", 
+        "notified_date": "10/21/2013", 
+        "population": "132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.440775, 
+          33.545447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "ARCHER", 
+        "tceq_state_code": "3", 
+        "pws_name": "WINDTHORST WSC", 
+        "pws_id": "50013", 
+        "connections": "490", 
+        "priority_code": "C", 
+        "notified_date": "7/15/2013", 
+        "population": "1470"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -100.898869, 
+          33.631625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "DICKENS", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF DICKENS", 
+        "pws_id": "630001", 
+        "connections": "204", 
+        "priority_code": "C", 
+        "notified_date": "5/18/2012", 
+        "population": "286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.391265, 
+          33.921031
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "CLAY", 
+        "tceq_state_code": "2", 
+        "pws_name": "DEAN DALE SUD", 
+        "pws_id": "390019", 
+        "connections": "1163", 
+        "priority_code": "C", 
+        "notified_date": "3/27/2013", 
+        "population": "3489"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -102.414853, 
+          34.014741
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "LAMB", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF AMHERST", 
+        "pws_id": "1400006", 
+        "connections": "325", 
+        "priority_code": "C", 
+        "notified_date": "8/20/2013", 
+        "population": "721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -102.613383, 
+          34.39455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "PARMER", 
+        "tceq_state_code": "3", 
+        "pws_name": "LAZBUDDIE ISD", 
+        "pws_id": "1850023", 
+        "connections": "16", 
+        "priority_code": "C", 
+        "notified_date": "10/21/2013", 
+        "population": "240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -97.795256, 
+          26.489367
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "WILLACY", 
+        "tceq_state_code": "1", 
+        "pws_name": "CITY OF RAYMONDVILLE", 
+        "pws_id": "2450001", 
+        "connections": "2700", 
+        "priority_code": "E", 
+        "notified_date": "3/13/2013", 
+        "population": "9733"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.760059, 
+          29.725589
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "REAL", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF LEAKEY", 
+        "pws_id": "1930002", 
+        "connections": "556", 
+        "priority_code": "E", 
+        "notified_date": "5/3/2012", 
+        "population": "1668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.147862, 
+          30.51794
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "BURNET", 
+        "tceq_state_code": "3", 
+        "pws_name": "LCRA SPICEWOOD BEACH WSC", 
+        "pws_id": "270011", 
+        "connections": "432", 
+        "priority_code": "E", 
+        "notified_date": "1/25/2012", 
+        "population": "1296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.382353, 
+          33.457971
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "CROSBY", 
+        "tceq_state_code": "3", 
+        "pws_name": "WHITE RIVER MWD", 
+        "pws_id": "540015", 
+        "connections": "245", 
+        "priority_code": "E", 
+        "notified_date": "5/6/2013", 
+        "population": "560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.23146, 
+          33.65939
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "CROSBY", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF CROSBYTON", 
+        "pws_id": "540001", 
+        "connections": "777", 
+        "priority_code": "E", 
+        "notified_date": "7/15/2013", 
+        "population": "2083"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.314956, 
+          33.674949
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "DICKENS", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF SPUR", 
+        "pws_id": "630012", 
+        "connections": "642", 
+        "priority_code": "E", 
+        "notified_date": "5/29/2013", 
+        "population": "1300"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.002656, 
+          26.297144
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "HIDALGO", 
+        "tceq_state_code": "1", 
+        "pws_name": "CITY OF ELSA", 
+        "pws_id": "1080005", 
+        "connections": "1924", 
+        "priority_code": "P", 
+        "notified_date": "10/23/2013", 
+        "population": "5660"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.824833, 
+          29.198211
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "UVALDE", 
+        "tceq_state_code": "1", 
+        "pws_name": "CITY OF UVALDE", 
+        "pws_id": "2320002", 
+        "connections": "7128", 
+        "priority_code": "P", 
+        "notified_date": "5/6/2013", 
+        "population": "15751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -94.905443, 
+          29.303336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "GALVESTON", 
+        "tceq_state_code": "1", 
+        "pws_name": "GALVESTON COUNTY FWSD 6 TIKI ISLAND", 
+        "pws_id": "840036", 
+        "connections": "988", 
+        "priority_code": "P", 
+        "notified_date": "7/12/2013", 
+        "population": "2964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -94.958056, 
+          29.386944
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "GALVESTON", 
+        "tceq_state_code": "1", 
+        "pws_name": "GULF COAST WATER AUTHORITY TX CITY", 
+        "pws_id": "840153", 
+        "connections": "76756", 
+        "priority_code": "P", 
+        "notified_date": "6/24/2013", 
+        "population": "298101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.747537, 
+          29.684722
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "REAL", 
+        "tceq_state_code": "2", 
+        "pws_name": "OAKMONT SADDLE MOUNTAIN WATER SYSTEM", 
+        "pws_id": "1930015", 
+        "connections": "103", 
+        "priority_code": "P", 
+        "notified_date": "5/9/2013", 
+        "population": "309"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -97.987211, 
+          30.423055
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "TRAVIS", 
+        "tceq_state_code": "2", 
+        "pws_name": "DRAPER ESTATES WATER SYSTEM", 
+        "pws_id": "2270058", 
+        "connections": "40", 
+        "priority_code": "P", 
+        "notified_date": "9/5/2012", 
+        "population": "120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.407979, 
+          30.859599
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "BURNET", 
+        "tceq_state_code": "3", 
+        "pws_name": "SILVER CREEK VILLAGE WSC", 
+        "pws_id": "270021", 
+        "connections": "98", 
+        "priority_code": "P", 
+        "notified_date": "2/10/2012", 
+        "population": "294"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -95.44162, 
+          30.94382
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "WALKER", 
+        "tceq_state_code": "2", 
+        "pws_name": "FRISBYS LANDING", 
+        "pws_id": "2360031", 
+        "connections": "25", 
+        "priority_code": "P", 
+        "notified_date": "1/9/2012", 
+        "population": "75"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.176468, 
+          31.128124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "IRION", 
+        "tceq_state_code": "3", 
+        "pws_name": "BARNHART WSC", 
+        "pws_id": "1180001", 
+        "connections": "52", 
+        "priority_code": "P", 
+        "notified_date": "6/18/2013", 
+        "population": "156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.733055, 
+          33.156112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "HASKELL", 
+        "tceq_state_code": "1", 
+        "pws_name": "CITY OF HASKELL", 
+        "pws_id": "1040001", 
+        "connections": "1661", 
+        "priority_code": "P", 
+        "notified_date": "8/1/2013", 
+        "population": "3141"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.898496, 
+          33.185473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "HASKELL", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF RULE", 
+        "pws_id": "1040003", 
+        "connections": "318", 
+        "priority_code": "P", 
+        "notified_date": "8/22/2013", 
+        "population": "636"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.854873, 
+          33.31501
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "HASKELL", 
+        "tceq_state_code": "1", 
+        "pws_name": "CITY OF ROCHESTER", 
+        "pws_id": "1040002", 
+        "connections": "153", 
+        "priority_code": "P", 
+        "notified_date": "10/18/2013", 
+        "population": "314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.718154, 
+          33.360248
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "HASKELL", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF WEINERT", 
+        "pws_id": "1040004", 
+        "connections": "103", 
+        "priority_code": "P", 
+        "notified_date": "9/24/2013", 
+        "population": "182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.401662, 
+          33.408678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "KNOX", 
+        "tceq_state_code": "1", 
+        "pws_name": "NORTH CENTRAL TEXAS MUNICIPAL WATER AUTH", 
+        "pws_id": "1380009", 
+        "connections": "4809", 
+        "priority_code": "P", 
+        "notified_date": "7/15/2013", 
+        "population": "8814"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.797057, 
+          33.418693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "KNOX", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF KNOX CITY", 
+        "pws_id": "1380002", 
+        "connections": "578", 
+        "priority_code": "P", 
+        "notified_date": "9/25/2013", 
+        "population": "1130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -98.926907, 
+          33.44879
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "ARCHER", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF MEGARGEL", 
+        "pws_id": "50012", 
+        "connections": "188", 
+        "priority_code": "P", 
+        "notified_date": "7/3/2013", 
+        "population": "245"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.289437, 
+          33.59286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "BAYLOR", 
+        "tceq_state_code": "3", 
+        "pws_name": "CITY OF SEYMOUR", 
+        "pws_id": "120001", 
+        "connections": "1311", 
+        "priority_code": "P", 
+        "notified_date": "7/25/2012", 
+        "population": "2900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -99.297444, 
+          33.60712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "BAYLOR", 
+        "tceq_state_code": "1", 
+        "pws_name": "BAYLOR WSC", 
+        "pws_id": "120004", 
+        "connections": "927", 
+        "priority_code": "P", 
+        "notified_date": "7/18/2013", 
+        "population": "1758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -102.151338, 
+          34.174161
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "LAMB", 
+        "tceq_state_code": "2", 
+        "pws_name": "CITY OF OLTON", 
+        "pws_id": "1400004", 
+        "connections": "826", 
+        "priority_code": "P", 
+        "notified_date": "8/22/2012", 
+        "population": "2215"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.264722, 
+          34.479094
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "BRISCOE", 
+        "tceq_state_code": "1", 
+        "pws_name": "SILVERTON MUNICIPAL WATER SYSTEM", 
+        "pws_id": "230001", 
+        "connections": "364", 
+        "priority_code": "P", 
+        "notified_date": "4/30/2013", 
+        "population": "771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -101.449239, 
+          34.535861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "county": "BRISCOE", 
+        "tceq_state_code": "1", 
+        "pws_name": "MACKENZIE MUNICIPAL WATER AUTHORITY", 
+        "pws_id": "230004", 
+        "connections": "42", 
+        "priority_code": "P", 
+        "notified_date": "9/3/2013", 
+        "population": "26"
+      }
+    }
+  ]
+}
